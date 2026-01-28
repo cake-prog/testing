@@ -31,7 +31,8 @@ Postman POST Request Practice (PHP + MySQL)
 
 2) Нажимаем Send и смотрим какой ответ мы получим
 
-<img width="1030" height="700" alt="изображение" src="https://github.com/user-attachments/assets/e5bd6c28-ad9b-4d22-8dbc-83f585a9c85b" />
+<img width="1034" height="156" alt="изображение" src="https://github.com/user-attachments/assets/7ffea2c3-35d2-4c9d-802c-d203fc20168f" />
+
 
 Ура! Все работает.
 
