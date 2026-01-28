@@ -19,7 +19,9 @@ Postman POST Request Practice (PHP + MySQL)
 
 5) Нажала отправить -> получила сообщение на странице
    <img width="1384" height="61" alt="изображение" src="https://github.com/user-attachments/assets/06d5d3d8-e110-450d-aae8-79d829a0582a" />
+   
    и данные в бд
+   
    <img width="562" height="58" alt="изображение" src="https://github.com/user-attachments/assets/0104380a-397a-4718-970b-58a598df5ac0" />
 
 Окей! Теперь можно отправлять запросы на страницу с помощью Postman
